@@ -1,7 +1,7 @@
 # 5. Single Page App
 
 
-```Mermaid
+```mermaid
 sequenceDiagram
     participant browser
     participant server

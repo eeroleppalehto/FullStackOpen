@@ -1,7 +1,7 @@
 # 4. uusi muistiinpano
 
 
-```Mermaid
+```mermaid
 sequenceDiagram
     participant browser
     participant server
