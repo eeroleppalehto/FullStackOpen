@@ -1,4 +1,4 @@
-# Exercise 5
+# 5. Single Page App
 
 
 ```Mermaid
